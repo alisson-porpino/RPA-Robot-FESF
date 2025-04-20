@@ -1,0 +1,4 @@
+*** Variables ***
+# Credenciais de acesso ao GLPI
+${GLPI_LOGIN}    seu.usuario
+${GLPI_SENHA}    sua.senha 
